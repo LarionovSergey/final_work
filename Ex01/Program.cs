@@ -7,7 +7,7 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-string[] array1 = new string[4] {"hello", "2", "world", ":)"};
+string[] array1 = new string[4] {"1234", "1567", "-2", "computer science"};
 string[] array2 = new string[array1.Length];
 void SecondArray(string[] array1, string[] array2)
 {
